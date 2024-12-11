@@ -79,4 +79,3 @@ while True:
         else: 
             print('Não sei como chegou aqui!')
 
-CAMINHO_ARQUIVO = 'exercicio20.json'
